@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "service.user.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'service.user.base-url'"
+  },
+  {
+    "name": "service.user.endpoints.register",
+    "type": "java.lang.String",
+    "description": "A description for 'service.user.endpoints.register'"
+  },
+  {
+    "name": "resttemplate.read-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'resttemplate.read-timeout'"
+  },
+  {
+    "name": "resttemplate.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'resttemplate.connection-timeout'"
+  }
+]}
